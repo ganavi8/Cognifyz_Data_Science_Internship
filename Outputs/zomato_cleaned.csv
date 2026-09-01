@@ -83,17 +83,17 @@ Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbos
 6713772,Sainte Marie Gastronomia,30,S��o Paulo,"Rua Dom Jo��o Batista da Costa, 70, Vila S��nia, S��o Paulo",Vila S��nia,"Vila S��nia, S��o Paulo",-46.746958,-23.609207,"Lebanese, Arabian",120,Brazilian Real(R$),No,No,No,No,4,4.1,Green,Very Good,11
 17284404,Austin's BBQ and Oyster Bar,216,Albany,"2820 Meredyth Dr, Albany, GA 31707",Albany,"Albany, Albany",-84.221535,31.610387,"BBQ, Burger, Seafood",25,Dollar($),No,No,No,No,2,3.3,Orange,Average,35
 17284203,BJ's Country Buffet,216,Albany,"2401 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",-84.207095,31.608743,"American, BBQ",10,Dollar($),No,No,No,No,1,3.3,Orange,Average,25
-17284105,Cookie Shoppe,216,Albany,"115 N Jackson St, Albany, GA 31701",Albany,"Albany, Albany",-84.154,31.5772,,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,34
+17284105,Cookie Shoppe,216,Albany,"115 N Jackson St, Albany, GA 31701",Albany,"Albany, Albany",-84.154,31.5772,North Indian,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,34
 17284302,El Vaquero Mexican Restaurant,216,Albany,"2700 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",-84.2194,31.6158,Mexican,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,45
 17284397,Elements Coffee Co - Northwest,216,Albany,"2726 Ledo Rd Ste 10, Albany, GA 31707",Albany,"Albany, Albany",-84.206944,31.622412,"Coffee and Tea, Sandwich",10,Dollar($),No,No,No,No,1,3.4,Orange,Average,26
-17284211,Pearly's Famous Country Cookng,216,Albany,"814 N Slappey Blvd, Albany, GA 31701",Albany,"Albany, Albany",-84.1759,31.5882,,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,36
+17284211,Pearly's Famous Country Cookng,216,Albany,"814 N Slappey Blvd, Albany, GA 31701",Albany,"Albany, Albany",-84.1759,31.5882,North Indian,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,36
 17284094,Chick-fil-A,216,Albany,"2703 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",-84.2193,31.616,Fast Food,10,Dollar($),No,No,No,No,1,3.5,Yellow,Good,67
 17284409,Guang Zhou Chinese Restaurant,216,Albany,"1214 N Westover Blvd, Albany, GA 31707",Albany,"Albany, Albany",-84.2091458,31.6155186,"Asian, Chinese, Vegetarian",10,Dollar($),No,No,No,No,1,3.9,Yellow,Good,141
 17284139,Harvest Moon,216,Albany,"2347 Dawson Road, Albany, GA 31707",Albany,"Albany, Albany",-84.205718,31.604905,"Pizza, Bar Food, Sandwich",25,Dollar($),No,No,No,No,2,3.7,Yellow,Good,147
 17284403,Henry Campbell's Steakhouse,216,Albany,"629 N. Westover Blvd, Albany, GA 31707",Albany,"Albany, Albany",-84.223278,31.612121,"Steak, Tapas, Bar Food",70,Dollar($),No,No,No,No,4,3.5,Yellow,Good,51
 17284145,Hong Kong Cafe,216,Albany,"2700 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",-84.2191,31.6156,"Chinese, Seafood, Vegetarian",25,Dollar($),No,No,No,No,2,3.6,Yellow,Good,88
 17284150,House of China Restaurant II,216,Albany,"2526 Dawson Rd Ste A, Albany, GA 31707",Albany,"Albany, Albany",-84.212,31.6104,Chinese,10,Dollar($),No,No,No,No,1,3.8,Yellow,Good,153
-17284158,Jimmie's Hot Dogs,216,Albany,"204 S Jackson St, Albany, GA 31701",Albany,"Albany, Albany",-84.1534,31.5751,,10,Dollar($),No,No,No,No,1,3.9,Yellow,Good,160
+17284158,Jimmie's Hot Dogs,216,Albany,"204 S Jackson St, Albany, GA 31701",Albany,"Albany, Albany",-84.1534,31.5751,North Indian,10,Dollar($),No,No,No,No,1,3.9,Yellow,Good,160
 17284175,Locos Grill & Pub,216,Albany,"547 N Westover Blvd, Albany, GA 31707",Albany,"Albany, Albany",-84.2228,31.6077,"American, Burger, Sandwich",25,Dollar($),No,No,No,No,2,3.5,Yellow,Good,57
 17284179,Longhorn Steakhouse,216,Albany,"2733 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",-84.2229,31.6185,"American, Steak",25,Dollar($),No,No,No,No,2,3.5,Yellow,Good,58
 17284197,Mikata Japanese Steakhouse,216,Albany,"2610 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",-84.2164,31.6137,"Japanese, Steak, Sushi",40,Dollar($),No,No,No,No,3,3.6,Yellow,Good,115
@@ -296,7 +296,7 @@ Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbos
 17374405,Houndstooth Grill & Tavern,216,Gainesville,"6323 Grand Hickory Dr Ste 200A, Braselton, GA 30517",Braselton,"Braselton, Gainesville",-83.8461,34.0901,"American, Sandwich, Seafood",25,Dollar($),No,No,No,No,2,4.4,Green,Very Good,239
 17375060,Hawg Wild BBQ & Catfish House,216,Gainesville,"515 Grant Street, Clarkesville, GA 30523",Clarkesville,"Clarkesville, Gainesville",-83.520693,34.61802,"BBQ, Burger, Seafood",10,Dollar($),No,No,No,No,1,4.1,Green,Very Good,235
 17375164,Bourbon Street Grille,216,Gainesville,"90 Public Sq N, Dahlonega, GA 30533",Dahlonega,"Dahlonega, Gainesville",-83.985353,34.532973,"American, Burger, Cajun",25,Dollar($),No,No,No,No,2,3.8,Yellow,Good,88
-17374552,Corkscrew Cafe,216,Gainesville,"51 W Main St, Dahlonega, GA 30533",Dahlonega,"Dahlonega, Gainesville",-83.9858,34.5318,,40,Dollar($),No,No,No,No,3,3.9,Yellow,Good,209
+17374552,Corkscrew Cafe,216,Gainesville,"51 W Main St, Dahlonega, GA 30533",Dahlonega,"Dahlonega, Gainesville",-83.9858,34.5318,North Indian,40,Dollar($),No,No,No,No,3,3.9,Yellow,Good,209
 17375078,Smokin Gold BBQ,216,Gainesville,"59 E Main St, Dahlonega, GA 30533",Dahlonega,"Dahlonega, Gainesville",-83.983939,34.533626,BBQ,10,Dollar($),No,No,No,No,1,3.9,Yellow,Good,133
 17375049,Hoka-Hoka Japanese Steak & Sushi,216,Gainesville,"617 North Grove Street, Dahlonega, GA 30533",Dahlonega,"Dahlonega, Gainesville",-83.989317,34.541044,"Chinese, Japanese, Thai",10,Dollar($),No,No,No,No,1,4.4,Green,Very Good,267
 17375077,Shenanigan's Irish Pub,216,Gainesville,"87 N. Chestatee St., Dahlonega, GA 30533",Dahlonega,"Dahlonega, Gainesville",-83.986119,34.533198,"Bar Food, Seafood, Vegetarian",25,Dollar($),No,No,No,No,2,4.1,Green,Very Good,171
@@ -327,7 +327,7 @@ Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbos
 17500767,Jim Shaw's Seafood Grill & Bar,216,Macon,"3040 Vineville Ave, Macon, GA 31204",Macon,"Macon, Macon",-83.6737,32.8496,Seafood,25,Dollar($),No,No,No,No,2,4.6,Dark Green,Excellent,467
 17500819,Mandarin Chinese Restaurant,216,Macon,"3086 Riverside Dr, Macon, GA 31210",Macon,"Macon, Macon",-83.6766,32.8899,"Chinese, Thai",25,Dollar($),No,No,No,No,2,4.5,Dark Green,Excellent,302
 17500911,Rookery,216,Macon,"543 Cherry St, Macon, GA 31201",Macon,"Macon, Macon",-83.6279,32.8361,"Burger, Desserts, Bar Food",25,Dollar($),No,No,No,No,2,4.5,Dark Green,Excellent,289
-17501439,Dovetail,216,Macon,"543 Cherry St, Macon, GA 31201",Macon,"Macon, Macon",-83.627979,32.83641,,40,Dollar($),No,No,No,No,3,3.8,Yellow,Good,102
+17501439,Dovetail,216,Macon,"543 Cherry St, Macon, GA 31201",Macon,"Macon, Macon",-83.627979,32.83641,North Indian,40,Dollar($),No,No,No,No,3,3.8,Yellow,Good,102
 17501279,Bonefish Grill,216,Macon,"5080 Riverside Dr, Macon, GA 31210",Macon,"Macon, Macon",-83.713978,32.929278,"American, Seafood",40,Dollar($),No,No,No,No,3,4.1,Green,Very Good,293
 17500695,Downtown Grill,216,Macon,"562 Mulberry St, Macon, GA 31201",Macon,"Macon, Macon",-83.6276,32.8375,Steak,70,Dollar($),No,No,No,No,4,4.0,Green,Very Good,195
 17501298,Greek Corner Deli,216,Macon,"587 Cherry St, Macon, GA 31201",Macon,"Macon, Macon",-83.628703,32.83654,"Desserts, Greek, Sandwich",10,Dollar($),No,No,No,No,1,4.3,Green,Very Good,244
@@ -345,7 +345,7 @@ Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbos
 16611701,Star Buffet,14,Mayfield,"58 Hanbury St, Mayfield, NSW",Mayfield,"Mayfield, Mayfield",151.7343832,-32.899178,Asian,20,Dollar($),No,No,No,No,2,2.9,Orange,Average,11
 17482142,Triangle Restaurant,216,Mc Millan,"21053 State Hwy M28, Mc Millan, MI 49853",Mc Millan,"Mc Millan, Mc Millan",-85.7363,46.3718,"Breakfast, Burger",10,Dollar($),No,No,No,No,1,2.4,Red,Poor,17
 16609169,Three Anchors,14,Middleton Beach,"2 Flinders Pde, Middleton Beach, WA",Middleton Beach,"Middleton Beach, Middleton Beach",117.917166,-35.025861,"Bar Food, Modern Australian",30,Dollar($),No,No,No,No,3,3.8,Yellow,Good,176
-17606621,HI Lite Bar & Lounge,216,Miller,"109 N Broadway Ave, Miller, SD 57362",Miller,"Miller, Miller",-98.9891,44.5158,,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,11
+17606621,HI Lite Bar & Lounge,216,Miller,"109 N Broadway Ave, Miller, SD 57362",Miller,"Miller, Miller",-98.9891,44.5158,North Indian,0,Dollar($),No,No,No,No,1,3.4,Orange,Average,11
 17687832,Vince's Restaurant & Pizzeria,216,Monroe,"619 4th Ave, Monroe, WI 53566",Monroe,"Monroe, Monroe",-89.653487,42.606306,"Italian, Pizza",25,Dollar($),No,No,No,No,2,3.6,Yellow,Good,65
 16613059,Poets Cafe,14,Montville,"167 Main St, Montville, QLD",Montville,"Montville, Montville",152.893735,-26.690462,"Coffee and Tea, Modern Australian",30,Dollar($),No,No,No,No,3,2.4,Red,Poor,193
 17534788,The Artesian Restaurant,216,Ojo Caliente,"Ojo Caliente Mineral Springs Resort And Spa 50 Los Banos Rd, Ojo Caliente, NM 87549",Ojo Caliente,"Ojo Caliente, Ojo Caliente",-106.057666,36.313638,"American, International, Southwestern",40,Dollar($),No,No,No,No,3,3.6,Yellow,Good,30
@@ -367,7 +367,7 @@ Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbos
 17066603,The Coop,216,Orlando,"610 W Morse Boulevard, Winter Park, FL 32789",Winter Park,"Winter Park, Orlando",-81.357219,28.597366,"Southern, Cajun, Soul Food",25,Dollar($),No,No,No,No,2,3.6,Yellow,Good,432
 17057797,Bosphorous Turkish Cuisine,216,Orlando,"108 S Park Ave, Winter Park, FL 32789",Winter Park,"Winter Park, Orlando",-81.3508344,28.5976271,"Mediterranean, Turkish",40,Dollar($),No,No,No,No,3,4.2,Green,Very Good,568
 17061253,Ethos Vegan Kitchen,216,Orlando,"601-B South New York Avenue, Winter Park, FL 32789",Winter Park,"Winter Park, Orlando",-81.352921,28.592857,"American, Breakfast, Vegetarian",25,Dollar($),No,No,No,No,2,4.4,Green,Very Good,797
-17059060,Hillstone,216,Orlando,"215 South Orlando Avenue, Winter Park, FL 32789",Winter Park,"Winter Park, Orlando",-81.36526,28.596682,,40,Dollar($),No,No,No,No,3,4.4,Green,Very Good,1158
+17059060,Hillstone,216,Orlando,"215 South Orlando Avenue, Winter Park, FL 32789",Winter Park,"Winter Park, Orlando",-81.36526,28.596682,North Indian,40,Dollar($),No,No,No,No,3,4.4,Green,Very Good,1158
 17061231,The Ravenous Pig,216,Orlando,"565 W Fairbanks Avenue, Winter Park, FL 32789",Winter Park,"Winter Park, Orlando",-81.356024,28.593297,Pub Food,40,Dollar($),No,No,No,No,3,4.4,Green,Very Good,1998
 16613649,Vivo Bar and Grill,14,Palm Cove,"49 Williams Esplanade, Palm Cove, QLD",Palm Cove,"Palm Cove, Palm Cove",145.670768,-16.748083,"Mediterranean, Seafood",30,Dollar($),No,No,No,No,3,4.4,Green,Very Good,381
 18255631,Pier 70,14,Paynesville,"70 The Esplanade, Paynesville",Paynesville,"Paynesville, Paynesville",147.7227832,-37.9194154,Modern Australian,120,Dollar($),No,No,No,No,4,2.6,Orange,Average,16
@@ -417,7 +417,7 @@ Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbos
 17211719,Blue Point Grill,216,Princeton,"258 Nassau St, Princeton, NJ 08542",Princeton,"Princeton, Princeton",-74.651139,40.352385,Seafood,70,Dollar($),No,No,No,No,4,4.0,Green,Very Good,542
 17144717,Giovanni's Shrimp Truck,216,Rest of Hawaii,"56-505 Kamehameha Hwy, Kahuku, HI 96731",Kahuku,"Kahuku, Rest of Hawaii",-157.948486,21.677078,Seafood,25,Dollar($),No,No,No,No,2,4.5,Dark Green,Excellent,691
 17143970,Kona Brewing Company,216,Rest of Hawaii,"75-5629 Kuakini Highway, Kailua Kona, HI 96740",Kailua Kona,"Kailua Kona, Rest of Hawaii",-155.997362,19.642752,"American, Pizza, Bar Food",35,Dollar($),No,No,No,No,3,4.7,Dark Green,Excellent,764
-17142698,Leonard's Bakery,216,Rest of Hawaii,"933 Kapahulu Ave, Honolulu, HI 96816",Kaimuki,"Kaimuki, Rest of Hawaii",-157.813432,21.284586,,10,Dollar($),No,No,No,No,1,4.7,Dark Green,Excellent,707
+17142698,Leonard's Bakery,216,Rest of Hawaii,"933 Kapahulu Ave, Honolulu, HI 96816",Kaimuki,"Kaimuki, Rest of Hawaii",-157.813432,21.284586,North Indian,10,Dollar($),No,No,No,No,1,4.7,Dark Green,Excellent,707
 17144991,Coconuts Fish Cafe,216,Rest of Hawaii,"1279 S Kihei Road, Kihei, HI 96753",Kihei,"Kihei, Rest of Hawaii",-156.455284,20.748838,Seafood,30,Dollar($),No,No,No,No,3,4.5,Dark Green,Excellent,487
 17142519,Kihei Caffe,216,Rest of Hawaii,"1945 S Kihei Road, Kihei, HI 96753",Kihei,"Kihei, Rest of Hawaii",-156.451847,20.731487,"American, Hawaiian",10,Dollar($),No,No,No,No,1,4.5,Dark Green,Excellent,695
 17145408,Monkeypod Kitchen by Merriman,216,Rest of Hawaii,"10 Wailea Gateway Place, Unit B-201 Kihei, Hawaii, HI 96753",Kihei,"Kihei, Rest of Hawaii",-156.4309473,20.6883746,Burger,40,Dollar($),No,No,No,No,3,4.2,Green,Very Good,485
@@ -454,7 +454,7 @@ Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbos
 17616205,The Olde Pink House,216,Savannah,"23 Abercorn St, Savannah, GA 31401",Savannah,"Savannah, Savannah",-81.0897,32.0798,"American, Seafood, Southern",70,Dollar($),No,No,No,No,4,4.4,Green,Very Good,1803
 17616222,Vic's On The River,216,Savannah,"26 E Bay St, Savannah, GA 31401",Savannah,"Savannah, Savannah",-81.0908,32.0809,American,70,Dollar($),No,No,No,No,4,4.1,Green,Very Good,558
 17616295,The Crab Shack,216,Savannah,"40 Estill Hammock Rd, Tybee Island, GA 31328",Tybee Island,"Tybee Island, Savannah",-80.865909,32.011689,Seafood,40,Dollar($),No,No,No,No,3,3.8,Yellow,Good,883
-17616465,Tybee Island Social Club,216,Savannah,"1311 Butler Ave, Tybee Island, GA 31328",Tybee Island,"Tybee Island, Savannah",-80.848297,31.99581,,10,Dollar($),No,No,No,No,1,3.9,Yellow,Good,309
+17616465,Tybee Island Social Club,216,Savannah,"1311 Butler Ave, Tybee Island, GA 31328",Tybee Island,"Tybee Island, Savannah",-80.848297,31.99581,North Indian,10,Dollar($),No,No,No,No,1,3.9,Yellow,Good,309
 18483372,Sky On 57,184,Singapore,"10 Bayfront Avenue, 57 Marina Bay Sands 018956","Bayfront Avenue, Downtown Core","Bayfront Avenue, Downtown Core, Singapore",103.8600048,1.2826608,"Chinese, Continental, Singaporean",300,Dollar($),No,No,No,No,4,3.4,Orange,Average,34
 18484349,Cut By Wolfgang Puck,184,Singapore,"2 Bayfront Avenue, B1-71 Marina Bay Sands 018972","Bayfront Subzone, Downtown Core","Bayfront Subzone, Downtown Core, Singapore",103.8594222,1.285476931,"American, Steak",270,Dollar($),No,No,No,No,4,4.0,Green,Very Good,33
 18496057,Restaurant Andre,184,Singapore,41 Bukit Pasoh Road 089855,"Cantonment Road, Outram","Cantonment Road, Outram, Singapore",103.8403602,1.279419756,"French, Mediterranean, European",500,Dollar($),No,No,No,No,4,3.8,Yellow,Good,33
